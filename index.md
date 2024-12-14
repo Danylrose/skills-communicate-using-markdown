@@ -8,3 +8,6 @@ func main() {
 	fmt.Println("My initial age is", age)
 }
 ```
+- [ ] Open SWE
+- [ ] Do SWE
+- [ ] Pass SWE
